@@ -6,7 +6,7 @@
 
 ![](<.gitbook/assets/LCF001-key visual v4.1-1.png>)
 
-### What is LikeCoin?
+### Что такое LikeCoin?
 
 LikeCoin децентрализует публикацию, позволяя каждому публиковать свой контент в качестве NFT с помощью набора открытых инструментов. ([NFT портал & виджет](https://app.like.co/), [плагин](https://wordpress.org/plugins/likecoin/), [открытые API](https://api.like.co/))
 
@@ -75,10 +75,10 @@ Liker Land — одна из основных команд в сообществ
 * **Сайт**: [Like.co](https://like.co) ( Для всех заинтересованных лиц ), [Liker.Land](https://liker.land) ( NFT портал & виджет ), [app.like.co](https://app.like.co/) ( NFT портал & виджет ), [iscn.io](https://iscn.io/) ( ISCN спецификации )
 * ****[**Discord**](https://discord.gg/likecoin): Здесь наше сообщество обсуждает вопросы развития и управления.
 * ****[**Twitter**](https://twitter.com/likecoin): **** анонсы
-* ****[**Блог**](httsps://blog.like.co): прогресс обновлений, управление, продукты
+* ****[**Блог**](https://blog.like.co): прогресс обновлений, управление, продукты
 * ****[**Telegram**](https://t.me/likecoin\_dao): Анонсы
 * [**GitHub**](https://github.com/likecoin): **** исходный код
-* **Facebook**: **** [page](https://www.facebook.com/Liker.Land/) ( анонсы ); [group](https://www.facebook.com/groups/likecoin) ( совместное использование создателей ); на китайском языке
+* **Facebook**: **** [страница](https://www.facebook.com/Liker.Land/) ( анонсы ); [группа](https://www.facebook.com/groups/likecoin) ( совместное использование создателей ); на китайском языке
 * [**Reddit**](https://www.reddit.com/r/LikeCoin/)
 
 ## Обратная связь
